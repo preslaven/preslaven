@@ -7,6 +7,7 @@
 <h2 align="left">Contacts:</h2>
 <p align="left">
   <a href="https://t.me/preslaven" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
-  <a href="https://twitter.com/preslaven" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://twitter.com/preslaven" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/x-color.svg" alt="X" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/preslaven/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="Linkedin" height="30" width="40" /></a>
   </a>
 </p>
